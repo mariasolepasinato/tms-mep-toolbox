@@ -1,0 +1,12 @@
+{
+  "subj_id": "sub-001",
+  "h_affected": "right",
+  "measurements": {
+    "nasion_inion": 0,
+    "A_A": 0
+  },
+  "active_trials": {
+    "right": [3, 6, 9, 12, 15],
+    "left": [3, 6, 9, 12, 15]
+  }
+}

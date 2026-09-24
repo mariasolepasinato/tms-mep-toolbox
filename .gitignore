@@ -1,0 +1,24 @@
+# MATLAB-generated files
+*.asv
+*.autosave
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Participant and acquisition data
+Data/*
+!Data/README.md
+Results/
+Figures/
+*.shpf
+*.mat
+*.csv
+*.xlsx
+*.xls
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

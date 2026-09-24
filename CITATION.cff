@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+title: "TMS cMEP/iMEP Analysis Toolbox"
+type: software
+authors:
+  - family-names: "Pasinato"
+    given-names: "Mariasole"
+version: 0.1.0
+date-released: 2026-09-24
+license: MIT
