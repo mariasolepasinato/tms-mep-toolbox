@@ -184,4 +184,4 @@ Use the repository's `CITATION.cff` file. GitHub will display a **Cite this repo
 
 ## License
 
-Released under the [MIT License](LICENSE). The license covers the software, not any third-party data or proprietary acquisition formats.
+Copyright (c) 2026 Mariasole Pasinato. Released under the [GNU General Public License v3.0 only](LICENSE). Redistributed versions and modifications must remain available under the GPL. The license covers the software, not any third-party data or proprietary acquisition formats.
