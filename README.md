@@ -182,6 +182,14 @@ Never commit raw recordings, MAT files, result spreadsheets, clinical workbooks,
 
 Use the repository's `CITATION.cff` file. GitHub will display a **Cite this repository** panel after publication.
 
+### Related conference work
+
+The algorithmic component that identifies cMEPs and iMEPs was presented as an oral presentation at the 2026 IEEE Engineering in Medicine and Biology Conference (EMBC). A corresponding paper is expected to be published in the conference proceedings by the end of 2026 and is currently cited as:
+
+> Pasinato M, Bertuccelli M, Vomiero A, et al. Automatic detection of ipsilateral Motor Evoked Potentials elicited by Transcranial Magnetic Stimulation in post-stroke patients. In: *Proceedings of the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).* IEEE; 2026. In press.
+
+This reference applies specifically to the cMEP/iMEP identification component, rather than to every part of the toolbox. The citation should be updated when the final proceedings record and DOI become available.
+
 ## License
 
 Copyright (c) 2026 Mariasole Pasinato. Released under the [GNU General Public License v3.0 only](LICENSE). Redistributed versions and modifications must remain available under the GPL. The license covers the software, not any third-party data or proprietary acquisition formats.
