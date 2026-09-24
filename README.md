@@ -24,7 +24,7 @@ This is research software. It is not a medical device and must not be used as th
 Download the repository from GitHub or clone it with Git:
 
 ```text
-git clone https://github.com/YOUR-USERNAME/tms-mep-toolbox.git
+git clone https://github.com/mariasolepasinato/tms-mep-toolbox.git
 ```
 
 In MATLAB, set the current folder to the repository root and add the code folder:
